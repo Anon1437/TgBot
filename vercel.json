@@ -1,1 +1,15 @@
 
+{
+  "version": 2,
+  "functions": {
+    "api/main.php": {
+      "runtime": "vercel-php@0.7.3"
+    }
+  },
+  "routes": [
+    {
+      "src": "/",
+      "dest": "/api/main.php"
+    }
+  ]
+}
