@@ -1,4 +1,3 @@
-
 <?php
 
 $BOT_TOKEN = getenv("BOT_TOKEN");
