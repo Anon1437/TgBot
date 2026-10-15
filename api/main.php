@@ -74,3 +74,5 @@ if (isset($update["callback_query"])) {
 echo json_encode([
     "ok" => true
 ]);
+
+?>
