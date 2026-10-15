@@ -123,3 +123,5 @@ function verifyUser($chatId, $userId)
 
     }
 }
+
+?>
